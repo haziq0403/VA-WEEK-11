@@ -43,6 +43,10 @@ A helpful analogy: the **domain** is like the street or apartment building, whil
 
 **Explanation:** The email follows the format `username@domain`. The part after the `@` symbol is the domain name.
 
+<p align="center">
+  <img src="Screenshort/Email Addres.png" width="600">
+</p>
+
 ---
 
 ## Task 3 – Email Delivery
@@ -79,6 +83,10 @@ When an email is sent, several protocols work together to deliver the message:
 
 **Q3: Bob wants to access his email from multiple devices. Which protocol should he use?**
 > **Answer:** `IMAP`
+
+<p align="center">
+  <img src="Screenshort/Email Delivery.png" width="600">
+</p>
 
 ---
 
@@ -122,6 +130,10 @@ X-Originating-Ip: [43.255.56.161]
 **Q2: What is the IP address listed as the `X-Originating-Ip`?**
 > **Answer:** `43.255.56.161`
 
+<p align="center">
+  <img src="Screenshort/Email Header.png" width="600">
+</p>
+
 ---
 
 ## Task 5 – Email Body
@@ -160,6 +172,10 @@ The Base64-encoded data was decoded using **CyberChef** (`From Base64` operation
 
 **Q3: What is the hidden flag value? (Base64 decoded)**
 > **Answer:** `THM{BENIGN_PDF_ATTACHMENT}`
+
+<p align="center">
+  <img src="Screenshort/Email Body.png" width="600">
+</p>
 
 ---
 
@@ -218,6 +234,10 @@ Authentication-Results: atlas102.free.mail.gq1.yahoo.com;
 **Q4: Which mail server generated the `Authentication-Results` header?**
 > **Answer:** `atlas102.free.mail.gq1.yahoo.com`
 
+<p align="center">
+  <img src="Screenshort/Types Of Phishing.png" width="600">
+</p>
+
 ---
 
 ## Task 7 – Conclusion
@@ -259,6 +279,10 @@ Authentication-Results: atlas102.free.mail.gq1.yahoo.com;
 | Flag | Task |
 |------|------|
 | `THM{BENIGN_PDF_ATTACHMENT}` | Task 5 – Email Body |
+
+<p align="center">
+  <img src="Screenshort/Conclusion.png" width="600">
+</p>
 
 ---
 
