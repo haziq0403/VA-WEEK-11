@@ -177,6 +177,17 @@ The Base64-encoded data was decoded using **CyberChef** (`From Base64` operation
   <img src="Screenshort/Email Body.png" width="600">
 </p>
 
+<p align="center">
+  <img src="Screenshort/Email.Emil.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Screenshort/From Base64.png" width="600">
+</p>
+
+<p align="center">
+  <img src="Screenshort/PDF Flag.png" width="600">
+</p>
 ---
 
 ## Task 6 – Types of Phishing
