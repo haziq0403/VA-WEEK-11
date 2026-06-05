@@ -25,6 +25,10 @@ This room transitions from theory to practice by examining actual phishing email
 
 > **Note:** All email samples in this room contain information from actual phishing emails. Exercise caution when interacting with any IP address, domain, or attachment.
 
+<p align="center">
+  <img src="Screenshort/Intro.png" width="600">
+</p>
+
 ---
 
 ## Task 2 – Cancel Your Order (PayPal Phishing)
@@ -46,6 +50,10 @@ This phishing email impersonates PayPal, claiming a $120.00 purchase was made fr
 
 **Q: Who is listed as the Merchant in the email body?**
 > **Answer:** `Amazing Stuff`
+
+<p align="center">
+  <img src="Screenshort/Cancel Your Order.png" width="600">
+</p>
 
 ---
 
@@ -69,6 +77,10 @@ This phishing email mimics a shipping notification with a fake tracking number (
 
 **Q: What root domain does the hyperlink point to? (defanged)**
 > **Answer:** `devret[.]xyz`
+
+<p align="center">
+  <img src="Screenshort/Track Your Package.png" width="600">
+</p>
 
 ---
 
@@ -95,6 +107,10 @@ This phishing email mimics a Citrix fax notification, claiming a document expire
 **Q: The attacker deployed a fake portal to capture and exfiltrate user credentials. What is this type of attack called?**
 > **Answer:** `Credential Harvesting`
 
+<p align="center">
+  <img src="Screenshort/Download Document Here.png" width="600">
+</p>
+
 ---
 
 ## Task 5 – Your Account Is on Hold (Netflix Phishing)
@@ -119,6 +135,10 @@ This phishing email impersonates Netflix with the subject "Netflix ID Suspended"
 
 **Q: What is the actual sender email address hidden behind the "Netllx billing" display name?**
 > **Answer:** `z99@musacombi.online`
+
+<p align="center">
+  <img src="Screenshort/Your Account Is On Hold.png" width="600">
+</p>
 
 ---
 
@@ -147,6 +167,10 @@ This phishing email impersonates Apple Support, claiming an unauthorised $14.99 
 
 **Q2: What is the file extension of the attachment?**
 > **Answer:** `.dot`
+
+<p align="center">
+  <img src="Screenshort/Your Recent Purchase.png" width="600">
+</p>
 
 ---
 
@@ -177,6 +201,10 @@ If successfully executed, the attacker could:
 **Q: What is the name of the executable that the Excel attachment attempts to run?**
 > **Answer:** `regasms.exe`
 
+<p align="center">
+  <img src="Screenshort/Schedule Ship.png" width="600">
+</p>
+
 ---
 
 ## Task 8 – Conclusion
@@ -186,6 +214,10 @@ In this room, a series of phishing attempts across multiple scenarios were analy
 - Detecting URL manipulation and tracking pixels
 - Analysing malicious attachments
 - Recognising credential harvesting techniques
+
+<p align="center">
+  <img src="Screenshort/Conclusion 2.png" width="600">
+</p>
 
 ---
 
